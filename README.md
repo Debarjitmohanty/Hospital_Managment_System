@@ -1,1 +1,1 @@
-<center><h1>Hospital Managment System</h1></center>
+<center><h1>Hospital Management System</h1></center>
