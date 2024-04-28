@@ -6,3 +6,7 @@
 
 
 ![Screenshot 2024-04-28 123949](https://github.com/Debarjitmohanty/Hospital_Managment_System/assets/91021174/dd736a21-15bd-4a18-88d0-03a2907f0019)
+
+ <h1 style="text-align: center;">Services page</h1>
+ 
+![Screenshot 2024-04-28 124027](https://github.com/Debarjitmohanty/Hospital_Managment_System/assets/91021174/73f9867c-2025-46e0-9a16-8896c2353d48)
