@@ -10,3 +10,13 @@
  <h1 style="text-align: center;">Services page</h1>
  
 ![Screenshot 2024-04-28 124027](https://github.com/Debarjitmohanty/Hospital_Managment_System/assets/91021174/73f9867c-2025-46e0-9a16-8896c2353d48)
+
+ <h1 style="text-align: center;">Doctor's page</h1>
+
+![Screenshot 2024-04-28 124054](https://github.com/Debarjitmohanty/Hospital_Managment_System/assets/91021174/5b590d92-c2b1-44ee-9407-6fb22318feb3)
+
+ <h1 style="text-align: center;">Appointment page</h1>
+
+![Screenshot 2024-04-28 124128](https://github.com/Debarjitmohanty/Hospital_Managment_System/assets/91021174/130bb54f-c21f-4775-b3f9-d329644cd6a3)
+
+ 
